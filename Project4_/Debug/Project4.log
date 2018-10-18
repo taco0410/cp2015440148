@@ -1,0 +1,7 @@
+﻿  과제4.cpp
+c:\users\김진호\desktop\병아리\project4\project4\과제4.cpp(3): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+c:\users\김진호\desktop\병아리\project4\project4\과제4.cpp(3): warning C4101: 'E' :참조되지 않은 지역 변수입니다.
+c:\users\김진호\desktop\병아리\project4\project4\과제4.cpp(3): warning C4101: 'D' :참조되지 않은 지역 변수입니다.
+c:\users\김진호\desktop\병아리\project4\project4\과제4.cpp(3): warning C4101: 'A' :참조되지 않은 지역 변수입니다.
+c:\users\김진호\desktop\병아리\project4\project4\과제4.cpp(3): warning C4101: 'C' :참조되지 않은 지역 변수입니다.
+  Project4.vcxproj -> C:\Users\김진호\Desktop\병아리\Project4\Debug\Project4.exe
