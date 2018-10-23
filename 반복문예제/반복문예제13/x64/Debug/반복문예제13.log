@@ -1,0 +1,8 @@
+﻿  13.cpp
+c:\users\yeeeeh\source\repos\반복문예제\반복문예제13\13.cpp(5): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ','이(가) 있습니다.
+c:\users\yeeeeh\source\repos\반복문예제\반복문예제13\13.cpp(5): warning C4778: 'printf' : 서식 문자열 '% \n'이(가) 종결되지 않았습니다.
+c:\users\yeeeeh\source\repos\반복문예제\반복문예제13\13.cpp(6): warning C4476: 'scanf_s' : 서식 지정자에 알 수 없는 형식 필드 문자 ','이(가) 있습니다.
+c:\users\yeeeeh\source\repos\반복문예제\반복문예제13\13.cpp(6): warning C4778: 'scanf_s' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+c:\users\yeeeeh\source\repos\반복문예제\반복문예제13\13.cpp(6): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\yeeeeh\source\repos\반복문예제\반복문예제13\13.cpp(6): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 2개가 제공되었습니다.
+  반복문예제13.vcxproj -> C:\Users\yeeeeh\source\repos\반복문예제\x64\Debug\반복문예제13.exe

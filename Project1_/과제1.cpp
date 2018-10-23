@@ -1,5 +1,5 @@
 # include <stdio.h>
-int main ()
+int main (a,b,c)
 {
 
 
@@ -12,9 +12,9 @@ int main ()
 	c = a / b;
 
  if (c > 1)
-	printf("결과값: %d", a);
+	printf("결과값: %d"a);
  else
-	printf("결과값: %d",b);
+	printf("결과값: %d"(b);
 
-return 0;
+ return 0;
 }

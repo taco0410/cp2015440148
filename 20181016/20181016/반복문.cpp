@@ -52,7 +52,7 @@ int main() {
 	// 1에서 100까지의 정수의 합을 구하시오
 		int sum =0,  i=1;
 		while(i<=100){
-			sum = sum+ i;
+			sum = sum+ 
 			i++;
 			sum += i++;
 		}
