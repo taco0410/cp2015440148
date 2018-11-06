@@ -1,14 +1,23 @@
-#include <stdio.h>
-#include <windows.h>
-int main() {
-	int a, num;
-
-	printf(" 입력받은 숫자 이하의 소수들의 합");
-	scanf_s("%d, &num");
-	num 
+#include <stdio.h> 
+#include<windows.h>
+int main()
 
 
+int i, j, n, sum = 0;
+printf("숫자를 입력하세요: ");
+scanf_s("%d", &n);
+for (i = 1; i <= n; i++) {
+	for (j = 2; j <= i; j++)
+		if (i%j == 0)
+			break;
+	if (i == j)
+		sum += i;
+
+}
+printf(" %d ", sum);
 
 
+system("pause");
+return 0;
 
 }
