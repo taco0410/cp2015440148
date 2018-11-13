@@ -15,10 +15,12 @@ int main() {
 	ptr = a;//==> ptr = &a[0];배열의 이름만 사용하면 그 배열 첫 요소의 포인터값이 된다
 	printf("a[0] = %d\n", a[0]);
 	printf("a[0] = %d\n", *ptr);
-	//
+	//포인터변수 이름을 배열 이름으로 사용할 수 있다.
 	printf("a[0] = %d\n", ptr[0]);
 	printf("a[1] = %d\n", ptr[1]);
 
+	a = ptr;//error 배열의 이름은 값만 갖는다 메모리 저장장소가 없다. 즉 rvalue이다.
+	10 = a[2];
 
 	//printArray(a,3);
 

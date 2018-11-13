@@ -10,7 +10,7 @@ int main() {
 	int a = 10;
 	test(a); 
 	printf("a = %d\n", a);//10출력
-
+	  
 	//포인터를 매개변수값으로 전달
 	testPointer(&a);//a의 주소
 	printf("a=%d\n", a);//100출력
