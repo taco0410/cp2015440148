@@ -20,7 +20,7 @@ int main() {
 	char b[] = "hello";
 	printf("%s \n", b);// == > char b[] = { 'h', 'e', 'l', 'l', 'o', \0 };
 	printf("the length of the string is %d \n", strlen(b));
-
+	/
 	char* str1[50] = "hello";
 	char* str2 = "world";// ³¡¿¡ null
 	strcat(str1, str2);
